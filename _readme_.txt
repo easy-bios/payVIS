@@ -1,4 +1,13 @@
-First you need to extract blender.7z to same directory.
+If you don't have blender on your system, download it from blender.org. .zip recommended.
+Tested version is 2.79b. Copy everything to same directory next to payvis.blend and name the folder blender so you have folowing folder structure:
+-blender
+ -blender.exe
+ -blenderpleyer.exe
+ -...
+-_readme_.txt
+-payvis.blend
+-payvis_blinds.blend
+-...
 
 Setup your blinds and payouts in the blinds.csv and pool.csv
 I use Excel, google sheets and/or notepad++ for that.
