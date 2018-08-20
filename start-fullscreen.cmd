@@ -1,2 +1,1 @@
-cd bin
-Start payvis.exe -f
+Start blender\blenderplayer.exe -f bin\payvis.blend
